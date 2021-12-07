@@ -1,3 +1,5 @@
 process_corpus
 .ipynb_checkpoints/
 data/
+pretrain_models/
+datasets/
