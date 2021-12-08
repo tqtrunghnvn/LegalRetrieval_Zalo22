@@ -3,3 +3,4 @@ process_corpus
 data/
 pretrain_models/
 datasets/
+*.out
