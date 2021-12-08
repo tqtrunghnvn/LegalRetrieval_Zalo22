@@ -25,7 +25,7 @@ from fairseq.data.encoders.fastbpe import fastBPE
 from fairseq import options  
 import numpy as np
 
-# Khởi tạo Byte Pair Encoding cho PhoBERT
+# Initialize Byte Pair Encoding for PhoBERT
 class BPE():
     # bpe_codes = 'PhoBERT_base_fairseq/bpe.codes'
     bpe_codes = 'pretrain_models/PhoBERT_large_fairseq/bpe.codes'
