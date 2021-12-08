@@ -1,10 +1,12 @@
 pip install googletrans==4.0.0-rc1
 
 # For phoBERT
+```
 pip3 install fairseq
 pip3 install fastbpe
 pip3 install vncorenlp
 pip3 install transformers
+```
 
 # Download pretrain phoBERT
 https://phamdinhkhanh.github.io/2020/06/04/PhoBERT_Fairseq.html
